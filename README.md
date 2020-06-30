@@ -2,9 +2,14 @@
 ## DeepFake Detection
 This is the Git Repository for COMP90055 Research Project Team DeepFake Detection  
 Team Members:  
-Deng Pan        SID: 354059
-Xingjian Zhang  SID: 1030767    
+
+
+Deng Pan				SID: 354059
+
+Xingjian Zhang  SID: 1030767 
+
 Lixian Sun      SID: 938295  
+
 Rui Wang        SID: 978296  
 
 ### Introduction
